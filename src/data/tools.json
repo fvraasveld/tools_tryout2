@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "word-counter",
+    "name": "Word Counter",
+    "category": "Text",
+    "description": "Count words, characters, sentences, and paragraphs in your text instantly",
+    "free": true,
+    "pagePath": "/tools/word-counter",
+    "icon": "\u27e8W\u27e9",
+    "tags": [
+      "text",
+      "count",
+      "words"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "case-converter",
+    "name": "Case Converter",
+    "category": "Text",
+    "description": "Convert text between uppercase, lowercase, title case, and sentence case",
+    "free": true,
+    "pagePath": "/tools/case-converter",
+    "icon": "Aa",
+    "tags": [
+      "text",
+      "case",
+      "format"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "remove-duplicates",
+    "name": "Remove Duplicate Lines",
+    "category": "Text",
+    "description": "Remove duplicate lines from text while preserving order",
+    "free": true,
+    "pagePath": "/tools/remove-duplicates",
+    "icon": "\u2260\u2260",
+    "tags": [
+      "text",
+      "duplicates",
+      "clean"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "slug-generator",
+    "name": "Slug Generator",
+    "category": "Text",
+    "categories": [
+      "Text",
+      "Developer"
+    ],
+    "description": "Generate URL-friendly slugs from any text",
+    "free": true,
+    "pagePath": "/tools/slug-generator",
+    "icon": "url/",
+    "tags": [
+      "text",
+      "url",
+      "slug",
+      "seo"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "lorem-ipsum",
+    "name": "Lorem Ipsum Generator",
+    "category": "Text",
+    "categories": [
+      "Text",
+      "Creative"
+    ],
+    "description": "Generate placeholder text for designs and mockups",
+    "free": true,
+    "pagePath": "/tools/lorem-ipsum",
+    "icon": "\u00b6\u00b6\u00b6",
+    "tags": [
+      "text",
+      "placeholder",
+      "lorem"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "whitespace-remover",
+    "name": "Whitespace Remover",
+    "category": "Text",
+    "description": "Remove extra whitespace, tabs, and blank lines from text",
+    "free": true,
+    "pagePath": "/tools/whitespace-remover",
+    "icon": "\u23b5\u2715",
+    "tags": [
+      "text",
+      "whitespace",
+      "clean"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "text-diff",
+    "name": "Text Diff Tool",
+    "category": "Text",
+    "categories": [
+      "Text",
+      "Developer"
+    ],
+    "description": "Compare two texts and highlight the differences",
+    "free": true,
+    "pagePath": "/tools/text-diff",
+    "icon": "A|B",
+    "tags": [
+      "text",
+      "diff",
+      "compare"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "line-sorter",
+    "name": "Line Sorter",
+    "category": "Text",
+    "description": "Sort lines of text alphabetically or in reverse order",
+    "free": true,
+    "pagePath": "/tools/line-sorter",
+    "icon": "\u21c5\u2261",
+    "tags": [
+      "text",
+      "sort",
+      "lines"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "character-counter",
+    "name": "Character Counter",
+    "category": "Text",
+    "description": "Count characters with and without spaces in your text",
+    "free": true,
+    "pagePath": "/tools/character-counter",
+    "icon": "n|ch",
+    "tags": [
+      "text",
+      "character",
+      "count"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "json-to-csv",
+    "name": "JSON to CSV",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Developer"
+    ],
+    "description": "Convert JSON data to CSV format for spreadsheets",
+    "free": true,
+    "pagePath": "/tools/json-to-csv",
+    "icon": "{}\u2192,",
+    "tags": [
+      "json",
+      "csv",
+      "convert",
+      "data"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "csv-to-json",
+    "name": "CSV to JSON",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Developer"
+    ],
+    "description": "Convert CSV files to JSON format instantly",
+    "free": true,
+    "pagePath": "/tools/csv-to-json",
+    "icon": ",\u2192{}",
+    "tags": [
+      "csv",
+      "json",
+      "convert",
+      "data"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "base64-encoder",
+    "name": "Base64 Encoder / Decoder",
+    "category": "Developer",
+    "description": "Encode or decode Base64 strings instantly",
+    "free": true,
+    "pagePath": "/tools/base64-encoder",
+    "icon": "64\u21c4",
+    "tags": [
+      "base64",
+      "encode",
+      "decode",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "uuid-generator",
+    "name": "UUID Generator",
+    "category": "Developer",
+    "description": "Generate unique UUIDs (v4) for your applications",
+    "free": true,
+    "pagePath": "/tools/uuid-generator",
+    "icon": "uid#",
+    "tags": [
+      "uuid",
+      "unique",
+      "id",
+      "generator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "url-encoder",
+    "name": "URL Encoder / Decoder",
+    "category": "Developer",
+    "description": "Encode or decode URL-encoded strings",
+    "free": true,
+    "pagePath": "/tools/url-encoder",
+    "icon": "%2F",
+    "tags": [
+      "url",
+      "encode",
+      "decode",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "html-encoder",
+    "name": "HTML Encoder / Decoder",
+    "category": "Developer",
+    "description": "Encode or decode HTML entities in your text",
+    "free": true,
+    "pagePath": "/tools/html-encoder",
+    "icon": "&lt;",
+    "tags": [
+      "html",
+      "encode",
+      "entities",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "json-formatter",
+    "name": "JSON Formatter",
+    "category": "Developer",
+    "description": "Format, validate, and prettify JSON data",
+    "free": true,
+    "pagePath": "/tools/json-formatter",
+    "icon": "{  }",
+    "tags": [
+      "json",
+      "format",
+      "validate",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "markdown-to-html",
+    "name": "Markdown to HTML",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Developer"
+    ],
+    "description": "Convert Markdown text to HTML instantly",
+    "free": true,
+    "pagePath": "/tools/markdown-to-html",
+    "icon": "md\u2192",
+    "tags": [
+      "markdown",
+      "html",
+      "convert"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "rgb-to-hex",
+    "name": "RGB to Hex Color",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Creative"
+    ],
+    "description": "Convert RGB color values to hexadecimal color codes",
+    "free": true,
+    "pagePath": "/tools/rgb-to-hex",
+    "icon": "\u25c9\u21c4#",
+    "tags": [
+      "rgb",
+      "hex",
+      "color",
+      "convert"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "timestamp-converter",
+    "name": "Timestamp Converter",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Developer"
+    ],
+    "description": "Convert Unix timestamps to human-readable dates and back",
+    "free": true,
+    "pagePath": "/tools/timestamp-converter",
+    "icon": "t\u2192\u2299",
+    "tags": [
+      "timestamp",
+      "unix",
+      "date",
+      "convert"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "unit-converter",
+    "name": "Unit Converter",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Converter"
+    ],
+    "description": "Convert between length, weight, volume and more",
+    "free": true,
+    "pagePath": "/tools/unit-converter",
+    "icon": "\u21c4cm",
+    "tags": [
+      "units",
+      "convert",
+      "measurement",
+      "length",
+      "weight"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "image-resizer",
+    "name": "Image Resizer",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Creative"
+    ],
+    "description": "Resize images to any dimension in your browser",
+    "free": true,
+    "pagePath": "/tools/image-resizer",
+    "icon": "\u229e\u21c4",
+    "tags": [
+      "image",
+      "resize",
+      "width",
+      "height"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "image-format-converter",
+    "name": "Image Format Converter",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Creative"
+    ],
+    "description": "Convert images between PNG, JPEG, WebP, and more",
+    "free": true,
+    "pagePath": "/tools/image-format-converter",
+    "icon": "PNG\u2192",
+    "tags": [
+      "image",
+      "convert",
+      "format",
+      "png",
+      "jpeg"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "image-compressor",
+    "name": "Image Compressor",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Creative"
+    ],
+    "description": "Compress images to reduce file size without losing quality",
+    "free": true,
+    "pagePath": "/tools/image-compressor",
+    "icon": "\u25a3\u2193kb",
+    "tags": [
+      "image",
+      "compress",
+      "optimize",
+      "file size"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "text-to-pdf",
+    "name": "Text to PDF",
+    "category": "Converter",
+    "description": "Convert plain text or Markdown to a downloadable PDF",
+    "free": true,
+    "pagePath": "/tools/text-to-pdf",
+    "icon": "txt\u2192",
+    "tags": [
+      "text",
+      "pdf",
+      "convert",
+      "document"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "image-to-data-url",
+    "name": "Image to Data URL",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Developer"
+    ],
+    "description": "Convert images to Base64 data URLs for use in code",
+    "free": true,
+    "pagePath": "/tools/image-to-data-url",
+    "icon": "\u25a3\u219264",
+    "tags": [
+      "image",
+      "base64",
+      "data url",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "css-units-converter",
+    "name": "CSS Units Converter",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Developer"
+    ],
+    "description": "Convert between px, em, rem, vh, vw and other CSS units",
+    "free": true,
+    "pagePath": "/tools/css-units-converter",
+    "icon": "px\u21c4",
+    "tags": [
+      "css",
+      "units",
+      "px",
+      "em",
+      "rem",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "color-name-finder",
+    "name": "Color Name Finder",
+    "category": "Converter",
+    "categories": [
+      "Converter",
+      "Creative"
+    ],
+    "description": "Find the closest named color to any hex or RGB value",
+    "free": true,
+    "pagePath": "/tools/color-name-finder",
+    "icon": "\u25c9?",
+    "tags": [
+      "color",
+      "name",
+      "hex",
+      "rgb",
+      "creative"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "bmi-calculator",
+    "name": "BMI Calculator",
+    "category": "Calculator",
+    "description": "Calculate your Body Mass Index and healthy weight range",
+    "free": true,
+    "pagePath": "/tools/bmi-calculator",
+    "icon": "BMI",
+    "tags": [
+      "bmi",
+      "health",
+      "weight",
+      "calculator"
+    ],
+    "createdAt": "2024-01-01",
+    "categories": [
+      "Calculator",
+      "Health"
+    ]
+  },
+  {
+    "id": "loan-calculator",
+    "name": "Loan Calculator",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Calculate monthly payments, total interest, and loan details",
+    "free": true,
+    "pagePath": "/tools/loan-calculator",
+    "icon": "$\u2295%",
+    "tags": [
+      "loan",
+      "payment",
+      "interest",
+      "financial"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "percentage-calculator",
+    "name": "Percentage Calculator",
+    "category": "Calculator",
+    "description": "Calculate percentages, percentage change, and percent of total",
+    "free": true,
+    "pagePath": "/tools/percentage-calculator",
+    "icon": "X%Y",
+    "tags": [
+      "percentage",
+      "percent",
+      "calculator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "tip-calculator",
+    "name": "Tip Calculator",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Calculate tips and split bills between multiple people",
+    "free": true,
+    "pagePath": "/tools/tip-calculator",
+    "icon": "$\u00f7n",
+    "tags": [
+      "tip",
+      "bill",
+      "split",
+      "restaurant"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "age-calculator",
+    "name": "Age Calculator",
+    "category": "Calculator",
+    "description": "Calculate exact age in years, months, and days from a birth date",
+    "free": true,
+    "pagePath": "/tools/age-calculator",
+    "icon": "\u2299\u2192n",
+    "tags": [
+      "age",
+      "birthday",
+      "date",
+      "calculator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "discount-calculator",
+    "name": "Discount Calculator",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Calculate final price and savings after a percentage discount",
+    "free": true,
+    "pagePath": "/tools/discount-calculator",
+    "icon": "-%off",
+    "tags": [
+      "discount",
+      "sale",
+      "price",
+      "savings"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "vat-calculator",
+    "name": "VAT Calculator",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Add or remove VAT from prices and calculate tax breakdowns",
+    "free": true,
+    "pagePath": "/tools/vat-calculator",
+    "icon": "+VAT",
+    "tags": [
+      "vat",
+      "tax",
+      "price",
+      "financial"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "calorie-calculator",
+    "name": "Calorie Calculator",
+    "category": "Calculator",
+    "description": "Calculate your daily calorie needs based on weight, height, and activity",
+    "free": true,
+    "pagePath": "/tools/calorie-calculator",
+    "icon": "kcal",
+    "tags": [
+      "calorie",
+      "diet",
+      "nutrition",
+      "health"
+    ],
+    "createdAt": "2024-01-01",
+    "categories": [
+      "Calculator",
+      "Health"
+    ]
+  },
+  {
+    "id": "fuel-calculator",
+    "name": "Fuel Cost Calculator",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Calculate fuel costs for any trip based on distance and consumption",
+    "free": true,
+    "pagePath": "/tools/fuel-calculator",
+    "icon": "\u26fd$",
+    "tags": [
+      "fuel",
+      "cost",
+      "trip",
+      "car"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "gpa-calculator",
+    "name": "GPA Calculator",
+    "category": "Calculator",
+    "description": "Calculate your Grade Point Average from course grades and credit hours",
+    "free": true,
+    "pagePath": "/tools/gpa-calculator",
+    "icon": "GPA",
+    "tags": [
+      "gpa",
+      "grade",
+      "academic",
+      "calculator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "mortgage-calculator",
+    "name": "Mortgage Calculator",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Calculate monthly mortgage payments and total interest over the loan term",
+    "free": true,
+    "pagePath": "/tools/mortgage-calculator",
+    "icon": "\u2302$mo",
+    "tags": [
+      "mortgage",
+      "home",
+      "loan",
+      "payment"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "currency-converter",
+    "name": "Currency Converter",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Financial"
+    ],
+    "description": "Convert between 20 major world currencies with reference exchange rates",
+    "free": true,
+    "pagePath": "/tools/currency-converter",
+    "icon": "$\u21c4\u20ac",
+    "tags": [
+      "currency",
+      "exchange",
+      "convert",
+      "money"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "date-calculator",
+    "name": "Date Calculator",
+    "category": "Calculator",
+    "description": "Calculate the difference between dates or add/subtract days",
+    "free": true,
+    "pagePath": "/tools/date-calculator",
+    "icon": "\u2299\u00b1n",
+    "tags": [
+      "date",
+      "days",
+      "calculator",
+      "calendar"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "speed-converter",
+    "name": "Speed Converter",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Converter"
+    ],
+    "description": "Convert between km/h, mph, m/s, knots, and ft/s",
+    "free": true,
+    "pagePath": "/tools/speed-converter",
+    "icon": "\u2192km",
+    "tags": [
+      "speed",
+      "mph",
+      "kmh",
+      "convert"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "area-calculator",
+    "name": "Area Calculator",
+    "category": "Calculator",
+    "description": "Calculate the area of rectangles, circles, triangles, and more",
+    "free": true,
+    "pagePath": "/tools/area-calculator",
+    "icon": "\u25a1cm\u00b2",
+    "tags": [
+      "area",
+      "shape",
+      "geometry",
+      "calculator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "volume-calculator",
+    "name": "Volume Calculator",
+    "category": "Calculator",
+    "description": "Calculate the volume of cubes, cylinders, spheres, and more",
+    "free": true,
+    "pagePath": "/tools/volume-calculator",
+    "icon": "\u25a0cm\u00b3",
+    "tags": [
+      "volume",
+      "shape",
+      "geometry",
+      "calculator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "time-converter",
+    "name": "Time Converter",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Converter"
+    ],
+    "description": "Convert between seconds, minutes, hours, days, weeks, months, and years",
+    "free": true,
+    "pagePath": "/tools/time-converter",
+    "icon": "\u23f1\u21c4",
+    "tags": [
+      "time",
+      "convert",
+      "seconds",
+      "hours"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "temperature-converter",
+    "name": "Temperature Converter",
+    "category": "Calculator",
+    "categories": [
+      "Calculator",
+      "Converter"
+    ],
+    "description": "Convert between Celsius, Fahrenheit, and Kelvin",
+    "free": true,
+    "pagePath": "/tools/temperature-converter",
+    "icon": "\u00b0C\u21c4",
+    "tags": [
+      "temperature",
+      "celsius",
+      "fahrenheit",
+      "kelvin"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "password-generator",
+    "name": "Password Generator",
+    "category": "Productivity",
+    "description": "Generate strong, secure passwords with custom settings",
+    "free": true,
+    "pagePath": "/tools/password-generator",
+    "icon": "\u25cf\u25cf\u25cf\u25cf",
+    "tags": [
+      "password",
+      "security",
+      "generator"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "invoice-generator",
+    "name": "Invoice Generator",
+    "category": "Productivity",
+    "categories": [
+      "Productivity",
+      "Financial"
+    ],
+    "description": "Create and download professional invoices as PDF",
+    "free": true,
+    "pagePath": "/tools/invoice-generator",
+    "icon": "inv.",
+    "tags": [
+      "invoice",
+      "pdf",
+      "billing",
+      "business"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "youtube-transcript",
+    "name": "YouTube Transcript",
+    "category": "Productivity",
+    "description": "Extract transcripts from YouTube videos with subtitles",
+    "free": true,
+    "pagePath": "/tools/youtube-transcript",
+    "icon": "\u25b6txt",
+    "tags": [
+      "youtube",
+      "transcript",
+      "video",
+      "captions"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "budget-planner",
+    "name": "Budget Planner",
+    "category": "Financial",
+    "categories": [
+      "Financial",
+      "Productivity"
+    ],
+    "description": "Plan your monthly budget with income tracking and spending breakdowns",
+    "free": true,
+    "pagePath": "/tools/budget-planner",
+    "icon": "$/mo",
+    "tags": [
+      "budget",
+      "finance",
+      "expenses",
+      "income"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "trip-splitter",
+    "name": "Trip Cost Splitter",
+    "category": "Financial",
+    "categories": [
+      "Financial",
+      "Productivity"
+    ],
+    "description": "Split shared trip expenses fairly among a group of friends",
+    "free": true,
+    "pagePath": "/tools/trip-splitter",
+    "icon": "$\u00f7\ud83d\udc65",
+    "tags": [
+      "split",
+      "trip",
+      "expenses",
+      "group",
+      "friends"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "take-home-pay",
+    "name": "Take-Home Pay Calculator",
+    "category": "Financial",
+    "categories": [
+      "Financial",
+      "Calculator"
+    ],
+    "description": "Estimate your US net pay after federal tax, FICA, 401(k), and insurance",
+    "free": true,
+    "pagePath": "/tools/take-home-pay",
+    "icon": "net$",
+    "tags": [
+      "paycheck",
+      "salary",
+      "tax",
+      "take home",
+      "net pay"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "qr-code-generator",
+    "name": "QR Code Generator",
+    "category": "Creative",
+    "description": "Generate QR codes for URLs, text, contact info, and more",
+    "free": true,
+    "pagePath": "/tools/qr-code-generator",
+    "icon": "\u229eQR",
+    "tags": [
+      "qr",
+      "code",
+      "generator",
+      "barcode"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "color-picker",
+    "name": "Color Picker",
+    "category": "Creative",
+    "categories": [
+      "Creative",
+      "Converter"
+    ],
+    "description": "Pick colors visually and get hex, RGB, and HSL values",
+    "free": true,
+    "pagePath": "/tools/color-picker",
+    "icon": "\u25c9pick",
+    "tags": [
+      "color",
+      "picker",
+      "hex",
+      "rgb",
+      "hsl"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "hashtag-generator",
+    "name": "Hashtag Generator",
+    "category": "Creative",
+    "description": "Generate relevant hashtags for social media posts",
+    "free": true,
+    "pagePath": "/tools/hashtag-generator",
+    "icon": "#tag",
+    "tags": [
+      "hashtag",
+      "social media",
+      "instagram",
+      "twitter"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "random-name-generator",
+    "name": "Random Name Generator",
+    "category": "Creative",
+    "description": "Generate random names for characters, projects, or businesses",
+    "free": true,
+    "pagePath": "/tools/random-name-generator",
+    "icon": "?name",
+    "tags": [
+      "name",
+      "random",
+      "generator",
+      "creative"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "html-table-generator",
+    "name": "HTML Table Generator",
+    "category": "Creative",
+    "categories": [
+      "Creative",
+      "Developer"
+    ],
+    "description": "Generate HTML table code from a visual editor",
+    "free": true,
+    "pagePath": "/tools/html-table-generator",
+    "icon": "\u229ehtml",
+    "tags": [
+      "html",
+      "table",
+      "generator",
+      "developer"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "food-calorie-lookup",
+    "name": "Food Calorie Lookup",
+    "category": "Health",
+    "categories": [
+      "Health",
+      "Calculator"
+    ],
+    "description": "Search nutritional info for 300,000+ foods \u2014 calories, protein, carbs, fat, fiber and more from the USDA database",
+    "free": true,
+    "pagePath": "/tools/food-calorie-lookup",
+    "icon": "\ud83e\udd57",
+    "tags": [
+      "calories",
+      "nutrition",
+      "food",
+      "health",
+      "diet",
+      "protein",
+      "carbs"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "running-pace-converter",
+    "name": "Running Pace Converter",
+    "category": "Health",
+    "categories": [
+      "Health",
+      "Calculator",
+      "Converter"
+    ],
+    "description": "Convert between running pace (min/km, min/mile) and speed (km/h, mph, m/s). Get projected race finish times.",
+    "free": true,
+    "pagePath": "/tools/running-pace-converter",
+    "icon": "\ud83c\udfc3",
+    "tags": [
+      "running",
+      "pace",
+      "speed",
+      "marathon",
+      "fitness",
+      "health"
+    ],
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "healthy-food-swaps",
+    "name": "Healthy Food Swaps",
+    "category": "Health",
+    "categories": [
+      "Health"
+    ],
+    "description": "Find healthier alternatives to common ingredients. Browse foods by protein, fibre, probiotics, antioxidants and more.",
+    "free": true,
+    "pagePath": "/tools/healthy-food-swaps",
+    "icon": "\ud83d\udd04",
+    "tags": [
+      "nutrition",
+      "food",
+      "health",
+      "diet",
+      "swaps",
+      "healthy eating"
+    ],
+    "createdAt": "2024-01-01"
+  }
+]
